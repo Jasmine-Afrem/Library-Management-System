@@ -1,19 +1,24 @@
-# Sistem_Biblioteca-CPP
-Proiect pentru facultate :)
+# Library Management System (C++)
 
-Sistem pentru evidența cărților dintr-o bibliotecă
+**Project for University**
 
-Sistemul permite stocarea datelor cărților dintr-o bibliotecă. Utilizatorul aplicației poate adăuga cărți specificând titlul, autorul, tipul, locația, căuta și afișa cărți după titlu, autor și disponibilitate, poate împrumuta cărți pentru un număr de zile și poate returna cărțile împrumutate.
+This is a system for managing books in a library.
 
-*Realizat în C++ cu următoarele cerințe adiționale:
-  - clase si obiecte
-  - supraincarcarea operatorilor
-  - relatia de asociere/mostenire
-  - functii/clase template
-  - STL
-  - documentarea codului sursa
-  - clean code
-  - lucrul cu fisiere
-  - documentarea proiectului
-  - preluare argumente din linia de comanda
-  - validare comenzi
+The system allows for storing data about books in a library. The user of the application can:
+- Add books by specifying the title, author, type, and location.
+- Search and display books by title, author, and availability.
+- Borrow books for a set number of days.
+- Return borrowed books.
+
+### Built with C++ and the following additional requirements:
+- Classes and objects
+- Operator overloading
+- Association/inheritance relationships
+- Template functions/classes
+- Standard Template Library (STL)
+- Source code documentation
+- Clean code principles
+- File handling
+- Project documentation
+- Command-line argument parsing
+- Command validation
